@@ -8,8 +8,11 @@ Install python3 from https://www.python.org/downloads/
 Create a python virtual environmennt
 
 python3 -m venv venv
+
 Install dependencies:
+
 python3 -m pip install -r requirements.txt
+
 Run the project:
 python3 main.py
 
