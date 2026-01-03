@@ -25,5 +25,5 @@ Sequential:
 Parallel:
 `python main.py election --mode parallel --workers 4`
 
-Benchmark:
-`python main.py election --benchmark --workers 8`
+Multiprocessing:
+`python main.py election --multiprocessing --workers 8`
